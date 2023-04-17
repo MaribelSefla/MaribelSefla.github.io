@@ -2,9 +2,12 @@
 
 DESCRIPTION:
 
-SPURGEON is a clean and minimal free HTML blog template designed for lifestyle bloggers and 
-influencers. The thing you would love about it is its simplistic elegant design that emphasizes 
-your site's content. It makes your site visitors fall in love with your blog content. 
+MUELLER is a modern and creative free agency website template. With Mueller, you can immediately 
+start creating a striking online presence that would capture everyone's attention. There is no 
+need to start from the ground up. This template includes essential features that allow you to 
+creatively introduce your business, highlight your services, showcase your best works, and much 
+more. Mueller is the perfect tool for creating a stunning website that makes your agency business 
+stand out!
 
 ==================================================================================================
 
@@ -68,7 +71,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since SPURGEON is distributed for free, support is not offered. SPURGEON is coded according 
+Since MUELLER is distributed for free, support is not offered. MUELLER is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
@@ -95,6 +98,7 @@ always download the template files directly on our website(https://www.styleshou
 
 
 
+
 -------------------------------------------------------------------------------------------------------
 
 
@@ -104,26 +108,24 @@ I've used the following resources as listed.
 
 Fonts:
  - Inter Font (https://fonts.google.com/specimen/Inter)
- - Castoro Font (https://fonts.google.com/specimen/Castoro)
+ - Manrope Font (https://fonts.google.com/specimen/Manrope)
 
 Icons:
  - Boxicons (https://boxicons.com/)
- - Iconic (https://iconic.app/)
 
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
+ - LogoToUse.com (https://www.logotouse.com/)
  
 Javascript Files:
  - Swiper (https://swiperjs.com/)
  - MoveTo.js (https://github.com/hsnaydd/moveTo)
  - Prism.js (https://prismjs.com/)
- - Masonry (https://masonry.desandro.com/)
- - ImagesLoaded (https://imagesloaded.desandro.com/)
- - scroll-lock (https://github.com/FL3NKEY/scroll-lock)
+ - PhotoSwipe (https://photoswipe.com/)
 
 -------------------------------------------------------------------------------------------------------
 
 
-Thanks for downloading from Styleshout :)
+Thanks for downloading from StyleShout :)
 
 
