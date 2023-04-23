@@ -121,7 +121,7 @@
 	--color-2-lighter              : hsla(127, 8%, 42%, 1);
 	--color-2-light                : hsla(127, 8%, 32%, 1);
 	--color-2-dark                 : hsla(127, 8%, 14%, 1);
-	--color-2-darker               : hsla(127, 8%, 2%, 1);
+	--color-2-darker               : rgb(73, 2, 43);
 	
 	--color-3-light                : hsla(39, 93%, 100%, 1);
 	--color-3-dark                 : hsla(39, 93%, 85%, 1);
@@ -4192,7 +4192,7 @@ td:last-child {
 .s-journal {
 	padding-top     : var(--vspace-6);
 	padding-bottom  : var(--vspace-3);
-	background-color: #181818;
+	background-color: #240213;
 	color           : rgba(255, 255, 255, 0.6);
 	border-bottom   : 1px solid rgba(255, 255, 255, 0.05);
 }
@@ -4249,7 +4249,7 @@ td:last-child {
 	font-size       : calc(var(--text-size) * 0.95);
 	font-weight     : 300;
 	color           : rgba(255, 255, 255, 0.6);
-	background-color: #181818;
+	background-color: #36021c;
 	padding-top     : var(--vspace-3);
 	padding-bottom  : var(--vspace-3);
 }
