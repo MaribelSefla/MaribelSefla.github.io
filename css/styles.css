@@ -3188,8 +3188,8 @@ td:last-child {
 .s-header {
 	--header-height: 80px;
 	--logo-width   : 9.6rem;
-	--box-shadow   : 0 1px 1px rgba(0, 0, 0, 0.02),
-		             0 2px 2px rgba(0, 0, 0, 0.02),
+	--box-shadow   : 0 1px 1px rgba(56, 2, 35, 0.02),
+		             0 2px 2px rgba(80, 5, 42, 0.02),
 		             0 4px 4px rgba(0, 0, 0, 0.02),
 		             0 8px 8px rgba(0, 0, 0, 0.02);
 	--box-shadow-2:  0 2px 2px rgba(0, 0, 0, 0.03),
@@ -3399,7 +3399,7 @@ td:last-child {
 		transform-origin: center top;
 		background-color: var(--color-2-dark);
 		box-shadow      : var(--box-shadow-2);
-		border-bottom   : 1px solid rgba(255, 255, 255, 0.05);
+		border-bottom   : 1px solid rgba(58, 2, 28, 0.05);
 		padding-top     : calc(var(--header-height) + var(--vspace-3));
 		padding-right   : calc(var(--gutter) + 4.4vw);
 		padding-left    : calc(var(--gutter) + 4.4vw);
@@ -4065,7 +4065,7 @@ td:last-child {
 .clients-list {
 	display     : flex;
 	flex-flow   : row wrap;
-	border-color: rgba(0, 0, 0, 0.2);
+	border-color: rgba(235, 11, 149, 0.2);
 	border-style: solid;
 	border-width: 1px 0 0 1px;
 	margin-top  : 0;
@@ -4074,7 +4074,7 @@ td:last-child {
 .clients-list__item {
 	flex        : none;
 	width       : 20%;
-	border-color: rgba(0, 0, 0, 0.2);
+	border-color: rgba(116, 4, 65, 0.2);
 	border-width: 1px;
 	text-align  : center;
 	padding     : 0;
