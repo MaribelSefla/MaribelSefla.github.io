@@ -503,7 +503,7 @@ button.swiper-pagination-bullet {
 
 /* Progress */
 .swiper-pagination-progressbar {
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(109, 3, 52, 0.25);
   position  : absolute;
 }
 
@@ -543,7 +543,7 @@ button.swiper-pagination-bullet {
 }
 
 .swiper-pagination-black {
-  --swiper-pagination-color: #000000;
+  --swiper-pagination-color: #5a063e;
 }
 
 .swiper-pagination-lock {
