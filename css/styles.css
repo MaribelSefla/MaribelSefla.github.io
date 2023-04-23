@@ -106,7 +106,7 @@
    */
 	--color-1: rgb(196, 75, 125);
 	--color-2: rgb(163, 241, 172);
-	--color-3: rgb(224, 139, 192);
+	--color-3: rgb(173, 157, 167);
 
   /* theme color variations
    */
@@ -204,7 +204,7 @@
   /* others
    */
 	--color-body                   : white;
-	--color-border                 : rgba(0, 0, 0, .1);
+	--color-border                 : rgba(148, 74, 74, 0.1);
 	--border-radius                : 5px;
 }
 
@@ -2050,8 +2050,8 @@ select {
 }
 
 .ss-custom-select::after {
-	border-bottom   : 2px solid rgb(0, 0, 0);
-	border-right    : 2px solid rgb(0, 0, 0);
+	border-bottom   : 2px solid rgb(82, 48, 48);
+	border-right    : 2px solid rgb(97, 71, 71);
 	content         : "";
 	display         : block;
 	height          : 8px;
@@ -2591,7 +2591,7 @@ td:last-child {
 .skill-bars li .progress span {
 	display      : block;
 	font-family  : var(--font-1);
-	color        : white;
+	color        : rgb(228, 158, 181);
 	font-size    : 1rem;
 	line-height  : 1;
 	background   : var(--color-text);
