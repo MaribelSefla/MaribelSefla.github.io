@@ -170,7 +170,7 @@
   /* text
    */
 	--color-text                   : var(--color-gray-18);
-	--color-text-dark              : #181818;
+	--color-text-dark              : #3f0224;
 	--color-text-light             : var(--color-gray-14);
 	--color-placeholder            : var(--color-gray-12);
 
@@ -2829,7 +2829,7 @@ td:last-child {
 	width           : var(--vspace-2);
 	border-radius   : 50%;
 	background-color: var(--color-3);
-	box-shadow      : 0 1px 1px rgba(0, 0, 0, 0.03), 0 2px 2px rgba(0, 0, 0, 0.03), 0 4px 4px rgba(0, 0, 0, 0.03);
+	box-shadow      : 0 1px 1px rgba(66, 2, 40, 0.03), 0 2px 2px rgba(131, 6, 64, 0.03), 0 4px 4px rgba(240, 7, 170, 0.03);
 }
 
 .list-items__item-icon svg {
@@ -3188,14 +3188,14 @@ td:last-child {
 .s-header {
 	--header-height: 80px;
 	--logo-width   : 9.6rem;
-	--box-shadow   : 0 1px 1px rgba(56, 2, 35, 0.02),
+	--box-shadow   : 0 1px 1px rgba(212, 124, 179, 0.02),
 		             0 2px 2px rgba(80, 5, 42, 0.02),
 		             0 4px 4px rgba(0, 0, 0, 0.02),
 		             0 8px 8px rgba(0, 0, 0, 0.02);
 	--box-shadow-2:  0 2px 2px rgba(0, 0, 0, 0.03),
 		             0 4px 4px rgba(0, 0, 0, 0.03),
 		             0 8px 8px rgba(0, 0, 0, 0.03),
-		              16px 16px rgba(0, 0, 0, 0.03);
+		              16px 16px rgba(126, 9, 81, 0.03);
 	z-index         : 100;
 	background-color: transparent;
 	height          : var(--header-height);
