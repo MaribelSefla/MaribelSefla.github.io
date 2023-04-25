@@ -1,0 +1,41 @@
+h1{
+    color: rgb(146, 5, 99);
+    text-align: center;
+    font-size: 80px;
+    background-color: rgb(235, 210, 229);
+    text-shadow: 5px 5px 10px rgb(5, 87, 112);
+  
+}
+h2{
+    color: rgb(23, 1, 48);
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 5px 5px 10px rgb(236, 18, 218);
+}
+h3{
+    color: rgb(99, 6, 79);
+    
+}
+body{
+    background-color: rgb(228, 194, 228);
+}
+label{
+    color: rgb(1, 1, 15);
+}
+input{
+    background-color: rgb(232, 170, 245);
+}
+img{
+    display: block;
+    margin: 0px auto;
+    width: 300px;
+   }
+   p{
+    font-size: 20px;
+   }
+   li{
+    font-size: 20px;
+   }
+   a{
+    font-size: 20px;
+   }

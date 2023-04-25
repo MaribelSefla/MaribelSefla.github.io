@@ -1,0 +1,37 @@
+h1{
+    color: rgb(71, 2, 2);
+    font-size: 60px;
+    text-align: center;
+    background-color: rgb(200, 245, 245);
+    text-shadow: 5px 5px 10px yellow;
+  
+}
+h2{
+    color: rgb(30, 2, 56);
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgb(125, 212, 125);
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(1, 46, 16);
+    
+}
+body{
+    background-color: rgb(187, 182, 187);
+}
+label{
+    color: rgb(6, 6, 24);
+}
+input{
+    background-color: yellow;
+}
+img{
+    display: block;
+    margin: 0px auto;
+   }
+   p{
+    font-size: 20px;
+    text-align: center;
+   }
